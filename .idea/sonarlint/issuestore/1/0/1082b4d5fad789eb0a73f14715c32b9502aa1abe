@@ -1,0 +1,11 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§Ν”ς8π—­¤¦.
+K
+java:S1481")Remove this unused "arra" local variable.(½δ‰°ψÿÿÿÿ8ι”Δ¤¦.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ψ¬®‚ϊÿÿÿÿ8π—­¤¦.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Φ®›“ψÿÿÿÿ
+K
+java:S1940")Use the opposite operator ("!=") instead.(α‡ςύÿÿÿÿ8π—­¤¦.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ρέ³ϋÿÿÿÿ8π—­¤¦.
+Z
+java:S1854"8Remove this useless assignment to local variable "arra".(½δ‰°ψÿÿÿÿ8ι”Δ¤¦.
